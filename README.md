@@ -11,6 +11,13 @@
 * [x] Keeps track of how many words user has found
 * [x] Compiles successfully
 
+## Gameplay 
+* Tap on letter to select 
+* Tap again to deselect
+* Tap "CHECK" button to see if you've found a word
+* Word will turn green and word count will update if correct 
+* Find all 6 words to win
+
 
 ## Screenshots 
 
