@@ -17,7 +17,7 @@
 
 No words found: 
 
-<img src='Screen Shot 2020-09-07 at 9.39.48 PM.png' title='0 words' width='' alt='screenshot where no words have been found' width='200'/>
+<img src='Screen Shot 2020-09-07 at 9.39.48 PM.png' title='0 words' width='' alt='screenshot where no words have been found' width='50'/>
 
 
 
