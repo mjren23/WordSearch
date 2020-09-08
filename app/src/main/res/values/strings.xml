@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">WordSearch</string>
+    <string name="checkButton">Check</string>
+    <string name="counter">%d words found</string>
+    <string name="counterOneWord">%d word found</string>
+    <string name="replay">Play again</string>
+</resources>
